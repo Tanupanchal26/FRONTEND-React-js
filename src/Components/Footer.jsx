@@ -6,7 +6,7 @@ const Footer = () => {
   return (
  <>
  <footer>
-  <p>https://www.nike.com/in/w/mens-shoes-nik1zy7ok ;Our Company</p>
+  <p>https://www.nike.com/in/w/mens-shoes-nik1zy7ok ;2025 Nike, Inc. All rights reserved</p>
   <p><h2>
   Contact us:
   </h2><br></br>
