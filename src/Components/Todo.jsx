@@ -20,7 +20,7 @@ updateTodo.splice(index, 1);
   
   return (<>
      <div>
-     <div className="bg-indigo-500	">
+     <div className="bg-black	">
         <input
           type="text"
           value={todo}
