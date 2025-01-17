@@ -1,15 +1,16 @@
+/* eslint-disable react/jsx-no-undef */
 import React from 'react'
-import Footer from './Footer'
 
-const Header = ({val }) => {
+function Header() {
   return (
-    <div>
-        {val}
-          {
-
-        val>10 ? <Footer/> : <Header/>    
-          }  
-    </div>
+  <header>
+    <nav>
+        <li><Navlink to="/">Home</Navlink></li>
+        <li><Navlink to="/Contact">Contact Us</Navlink></li>
+        <li><Navlink to="/About us">About Us</Navlink></li>
+    </nav>
+  </header>
   )
 }
 
+export default Header;
