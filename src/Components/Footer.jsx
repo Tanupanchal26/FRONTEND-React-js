@@ -6,13 +6,13 @@ const Footer = () => {
   return (
  <>
  <footer>
-  <p>https://www.nike.com/in/w/mens-shoes-nik1zy7ok ;2025 Nike, Inc. All rights reserved</p>
-  <p><h2>
+  <a src="https://www.nike.com/in/w/mens-shoes-nik1zy7ok">2025 Nike, Inc. All rights reserved</a> 
+  <h2>
   Contact us:
   </h2><br></br>
     <a herf="Tanya :tanya65@gmail.com">E-mail Address</a>
     <a herf="9998370911">Phone Number</a>
-  </p>
+  
  </footer>
  </>
   )

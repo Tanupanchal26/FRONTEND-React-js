@@ -5,7 +5,7 @@ function Mainsection() {
   return (
  <>
  <main>
-    <img src="https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/a12a1e20-18d2-480e-bb30-85a4c213a161/AIR+FORCE+1+%2707+LV8+1.png"></img>
+    <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a12a1e20-18d2-480e-bb30-85a4c213a161/AIR+FORCE+1+%2707+LV8+1.png"></img>
     <h2>Nike
         </h2>
         <p>
