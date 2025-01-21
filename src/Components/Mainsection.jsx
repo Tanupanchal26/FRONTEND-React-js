@@ -20,11 +20,14 @@ function Mainsection() {
         <p>These AF-1s are going back to school and they just won "Best Dressed".
             Layers of canvas and synthetic leather create a vintage, varsity-inspired aesthetic.
             Don't forget to leave your mark: the sockliner graphics are inspired by school yearbooks—and we already signed it.
-        <ol>
+        
+            <div  class="grid"><ol>
+
         Colour Shown: Light British Tan/Coconut Milk/Gum Dark Brown/Burgundy Crush<br></br>
         Style: FQ8713-200<br></br>
         Country/Region of Origin: Vietnam
         </ol>
+        </div>
         </p>
        <h3>Services :</h3>
        <p>
@@ -35,8 +38,8 @@ function Mainsection() {
        and collaboration, they are able to create a strong and lasting impression on consumers, inviting them to be part of the journey.
        </p>
  </main>
- <Link to="/" className="custom-link" >Home</Link> &nbsp;
- <Link to="/contact" className="custom-link">Contact</Link> &nbsp;
+ <Link to="/" className="custom-link" >Home</Link> 
+ <Link to="/contact" className="custom-link">Contact</Link> 
  <Link to="/about" className="custom-link">About</Link>
  </>
  )

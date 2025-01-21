@@ -21,7 +21,8 @@ body {
     display: block; 
     width: 250px; 
     height: 250px;
-    border-radius: 500px;
+    border-radius: 40px;
+margin-left: 30%;
    size: 50px;
   }
   .grid-container {
@@ -29,10 +30,18 @@ body {
     grid-template-columns: auto 1fr; 
     gap: 20px; 
     align-items: center;
+    margin-left: 36%;
 
    }
   
- 
+   .grid{
+    display: grid;
+    grid-template-columns: auto 1fr; 
+    gap: 20px; 
+    align-items: center;
+    margin-left: 15%;
+
+   }
   
   h1 {
     text-align: center;
@@ -94,6 +103,7 @@ body {
     font-size: 18px;
     align-items: center;
    word-spacing: 10px;
+   margin-left: 18%;
     
   }
   
