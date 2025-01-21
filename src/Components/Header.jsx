@@ -5,7 +5,7 @@ function Header() {
   return (
   <header>
     <nav>
-        <li><Navlink to="/">Home</Navlink></li>
+        <li><Navlink to="/home">Home</Navlink></li>
         <li><Navlink to="/Contact">Contact Us</Navlink></li>
         <li><Navlink to="/About us">About Us</Navlink></li>
     </nav>

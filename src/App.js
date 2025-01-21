@@ -6,9 +6,9 @@ import Header from './Components/Header';
 import Footer from "./Components/Footer";
 
 // eslint-disable-next-line no-unused-vars
-import Home from "./Components/Page/Home";
-import Contact from "./Components/Page/Contact";
-import About from "./Components/Page/About";
+import Home from "./Page/Home";
+import Contact from "./Page/Contact";
+import About from "./Page/About";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Mainsection  from "./Components/Mainsection";
 
@@ -18,7 +18,7 @@ export default function App() {
   <>
    <BrowserRouter>
       <Routes>
-        <Route path="/home" element={<Mainsection />}/>
+        <Route path="/" element={<Mainsection />}/>
         <Route path="/contact" element={<Contact />}/>
         <Route path="/about" element={<About />}/>
       </Routes>
