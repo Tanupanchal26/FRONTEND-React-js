@@ -23,7 +23,7 @@ function Mainsection() {
         
             <div  class="grid"><ol>
 
-        Colour Shown: Light British Tan/Coconut Milk/Gum Dark Brown/Burgundy Crush<br></br>
+         Colour Shown: Light British Tan/Coconut Milk/Gum Dark Brown/Burgundy Crush<br></br>
         Style: FQ8713-200<br></br>
         Country/Region of Origin: Vietnam
         </ol>
