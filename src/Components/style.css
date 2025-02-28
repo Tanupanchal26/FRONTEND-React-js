@@ -26,18 +26,25 @@ body {
    size: 80px;
    border-width: 3px;
    border-color: #dcd4d4;
-   
   }
+  .shoes:hover{
+    border-width: 5px;
+   
+    height: 400px;
+    width: 400px;
+  }
+
   .grid-container {
     display: grid;
     grid-template-columns: auto 1fr; 
     gap: 30px; 
     align-items: center;
-    margin-left: 40%;
+    margin-left: 42%;
     padding-top: 2%;
 
    }
-  
+   
+
    .grid{
     display: grid;
     grid-template-columns: auto 2fr; 

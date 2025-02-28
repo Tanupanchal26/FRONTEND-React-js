@@ -13,6 +13,7 @@ input[type="number"] {
 
 button {
     padding: 10px 50px; 
+    margin: 5%;
     background-color: #e6d1ec; 
     color: rgb(58, 174, 212); 
     border: none; 

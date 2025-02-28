@@ -1,23 +1,17 @@
 import React, { useState } from "react";
-
 const Todo = () => {
   const [todo, setTodo] = useState("");
   const [todoList, setTodolist] = useState([]);
 
-
   const addTodo = () => {
     setTodolist([...todoList, todo]);
-    
-    
   };
 
   const removeTodo=(index)=>{
      const updateTodo=[...todoList]
 updateTodo.splice(index, 1);
      setTodolist(updateTodo)
-
   }
-  
   return (<>
      <div>
      <div className="bg-black	">
